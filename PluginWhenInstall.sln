@@ -1,0 +1,35 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginWhenInstall", "PluginWhenInstall\PluginWhenInstall.csproj", "{6FB9001B-AD8F-4FEC-8E1A-634AFBB1DB09}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginBase", "PluginBase\PluginBase.csproj", "{464E9050-7CD4-4629-BC54-68B26BD5BEE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloExtension", "HelloExtension\HelloExtension.csproj", "{3ACD03D0-D15B-4B95-B181-437339AC6E1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OtherExtension", "OtherExtension\OtherExtension.csproj", "{B803842C-13DE-44F4-B34D-AA3626D4F609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FB9001B-AD8F-4FEC-8E1A-634AFBB1DB09}.Debug|x86.ActiveCfg = Debug|x86
+		{6FB9001B-AD8F-4FEC-8E1A-634AFBB1DB09}.Debug|x86.Build.0 = Debug|x86
+		{6FB9001B-AD8F-4FEC-8E1A-634AFBB1DB09}.Release|x86.ActiveCfg = Release|x86
+		{6FB9001B-AD8F-4FEC-8E1A-634AFBB1DB09}.Release|x86.Build.0 = Release|x86
+		{464E9050-7CD4-4629-BC54-68B26BD5BEE2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{464E9050-7CD4-4629-BC54-68B26BD5BEE2}.Debug|x86.Build.0 = Debug|Any CPU
+		{464E9050-7CD4-4629-BC54-68B26BD5BEE2}.Release|x86.ActiveCfg = Release|Any CPU
+		{464E9050-7CD4-4629-BC54-68B26BD5BEE2}.Release|x86.Build.0 = Release|Any CPU
+		{3ACD03D0-D15B-4B95-B181-437339AC6E1A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3ACD03D0-D15B-4B95-B181-437339AC6E1A}.Debug|x86.Build.0 = Debug|Any CPU
+		{3ACD03D0-D15B-4B95-B181-437339AC6E1A}.Release|x86.ActiveCfg = Release|Any CPU
+		{3ACD03D0-D15B-4B95-B181-437339AC6E1A}.Release|x86.Build.0 = Release|Any CPU
+		{B803842C-13DE-44F4-B34D-AA3626D4F609}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B803842C-13DE-44F4-B34D-AA3626D4F609}.Debug|x86.Build.0 = Debug|Any CPU
+		{B803842C-13DE-44F4-B34D-AA3626D4F609}.Release|x86.ActiveCfg = Release|Any CPU
+		{B803842C-13DE-44F4-B34D-AA3626D4F609}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+/home/jens/Projects/PluginWhenInstall/PluginWhenInstall/bin/Debug/Extensions/OtherExtension.dll
+/home/jens/Projects/PluginWhenInstall/PluginWhenInstall/bin/Debug/Extensions/OtherExtension.pdb
+/home/jens/Projects/PluginWhenInstall/OtherExtension/obj/Debug/OtherExtension.csproj.CoreCompileInputs.cache
+/home/jens/Projects/PluginWhenInstall/OtherExtension/obj/Debug/OtherExtension.dll
+/home/jens/Projects/PluginWhenInstall/OtherExtension/obj/Debug/OtherExtension.pdb

@@ -1,0 +1,6 @@
+/home/jens/Projects/PluginWhenInstall/PluginBase/bin/Debug/PluginBase.dll
+/home/jens/Projects/PluginWhenInstall/PluginBase/bin/Debug/PluginBase.pdb
+/home/jens/Projects/PluginWhenInstall/PluginBase/obj/Debug/PluginBase.csprojAssemblyReference.cache
+/home/jens/Projects/PluginWhenInstall/PluginBase/obj/Debug/PluginBase.csproj.CoreCompileInputs.cache
+/home/jens/Projects/PluginWhenInstall/PluginBase/obj/Debug/PluginBase.dll
+/home/jens/Projects/PluginWhenInstall/PluginBase/obj/Debug/PluginBase.pdb

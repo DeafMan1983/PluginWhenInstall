@@ -1,0 +1,5 @@
+/home/jens/Projects/PluginWhenInstall/PluginWhenInstall/bin/Debug/Extensions/HelloExtension.dll
+/home/jens/Projects/PluginWhenInstall/PluginWhenInstall/bin/Debug/Extensions/HelloExtension.pdb
+/home/jens/Projects/PluginWhenInstall/HelloExtension/obj/Debug/HelloExtension.csproj.CoreCompileInputs.cache
+/home/jens/Projects/PluginWhenInstall/HelloExtension/obj/Debug/HelloExtension.dll
+/home/jens/Projects/PluginWhenInstall/HelloExtension/obj/Debug/HelloExtension.pdb
